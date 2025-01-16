@@ -77,7 +77,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Exclude the data folder
 data/
+
 # IPython
 profile_default/
 ipython_config.py
