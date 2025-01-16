@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/pouyasmac/Desktop/AI&Data science Projects/Sentiment-Analysis-on-Twitter-Data/myenv/bin/python3" "$0" "$@"
+'''exec' "/Users/pouyasmac/Desktop/AI&Data science Projects/Sentiment-Analysis-on-Twitter-Data/myenv/bin/python3.10" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
